@@ -1,0 +1,8 @@
+C:\Users\benja\OneDrive\Documents\ComputerGraphicsGameDesign\cs423.albright\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\benja\OneDrive\Documents\ComputerGraphicsGameDesign\cs423.albright\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\benja\OneDrive\Documents\ComputerGraphicsGameDesign\cs423.albright\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\benja\OneDrive\Documents\ComputerGraphicsGameDesign\cs423.albright\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\benja\OneDrive\Documents\ComputerGraphicsGameDesign\cs423.albright\Lab02\Lab02\obj\Debug\Lab02.csproj.SuggestedBindingRedirects.cache
+C:\Users\benja\OneDrive\Documents\ComputerGraphicsGameDesign\cs423.albright\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documents\ComputerGraphicsGameDesign\cs423.albright\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\benja\OneDrive\Documents\ComputerGraphicsGameDesign\cs423.albright\Lab02\Lab02\obj\Debug\Lab02.pdb
