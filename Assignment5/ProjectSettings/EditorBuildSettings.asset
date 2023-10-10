@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/BottomRightRoom.unity
     guid: 5160d48c0b64482459ecdcd0e869f760
+  - enabled: 1
+    path: Assets/PyramidRoom.unity
+    guid: ba96cb7a0ea46d94e8570413e7803e3a
   m_configObjects: {}
